@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<craftList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<craft>
+		<name>CSM_Endeavour</name>
+		<CrewCapacity>3</CrewCapacity>
+		<Hue>240</Hue>
+	</craft>
+	<craft>
+		<name>Soyuz_11_Spacecraft</name>
+		<CrewCapacity>3</CrewCapacity>
+		<Hue>340</Hue>
+	</craft>
+	<craft>
+		<name>Salyut_1_Space_Station</name>
+		<CrewCapacity>3</CrewCapacity>
+		<Hue>90</Hue>
+	</craft>
+	<craft>
+		<name>Soyuz_10_Spacecraft</name>
+		<CrewCapacity>3</CrewCapacity>
+		<Hue>0</Hue>
+	</craft>
+	<craft>
+		<name>LM_Falcon</name>
+		<CrewCapacity>2</CrewCapacity>
+		<Hue>300</Hue>
+	</craft>	
+</craftList>
